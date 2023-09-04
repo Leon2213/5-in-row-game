@@ -6,6 +6,8 @@ Download, compile the java files and run "Main" to start the game. Or download t
 To run, use cmd, navigate to the folder containing the ".class files" (the compiled java files). <br>
 Start the game by typing "java Main". 
 
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
 ![img1](images/game0.PNG)
 
 ![img1](images/game1.PNG)
